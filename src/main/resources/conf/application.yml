@@ -1,0 +1,6 @@
+# 阿里云短信认证信息
+aliyun:
+  accesskey:
+    id: xxxx
+    secret: xxxxxx
+
